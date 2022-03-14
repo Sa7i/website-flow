@@ -3,3 +3,4 @@ Goat-cheese
 Mascarpone
 Serra-cheese
 Mozarella
+Cheddar
